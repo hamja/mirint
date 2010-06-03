@@ -16,4 +16,4 @@ To use this script:
 
 3. Run the create_mirint_mysql.sql script to create the tables for MIRINT schema.
 
-3. Edit the Mirint_mysql.vbs script and update the paths and MySQL database connection parameters.
+4. Edit the Mirint_mysql.vbs script and update the paths and MySQL database connection parameters.
